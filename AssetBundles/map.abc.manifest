@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2741521730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e5c41751d844f361fd82580cb006a66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17cccd77e644f9bdece56536dc23768f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Images/backyard_04.asset
+- Assets/Blocks/DirtBlock.prefab
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3561685990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a5a60156dd771bd2bbe49eb521f50d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad6b12b2571626e113b7d8430dde5201
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/ogre.prefab
+- Assets/Prefabs/attack.prefab
+- Assets/Prefabs/elf.prefab
+- Assets/Prefabs/BarHP.prefab
+Dependencies: []

@@ -1,0 +1,14 @@
+1.Asset Bundle
+
+"Unity資源打包之Asset Bundle知識點整理"by月儿圆
+https://www.twblogs.net/a/5ef89e226e3eefe880d55dc9
+
+
+2.在 2d 對象統一後渲染 3d 對象
+https://stackoverflow.com/questions/51723465/rendering-3d-objects-behind-2d-objects-unity
+
+3.Unity C# | 讀(get)和寫(set)概述 & 基本運用
+https://vocus.cc/article/61fff531fd89780001058f43
+
+
+
